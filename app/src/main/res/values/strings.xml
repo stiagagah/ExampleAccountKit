@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Belajar Login Akun Kit</string>
+    <string name="ak_login_protocol_scheme">ak1306543592810016</string>
+    <string name="FACEBOOK_APP_ID">1306543592810016</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">ebb3788134bf9e3a21b7d27a5cd7824b</string>
+</resources>
